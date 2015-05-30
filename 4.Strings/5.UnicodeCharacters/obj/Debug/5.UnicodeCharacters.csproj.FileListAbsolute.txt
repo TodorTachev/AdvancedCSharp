@@ -1,0 +1,4 @@
+E:\Projects\CSharp\Advanced\4.Strings\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.exe
+E:\Projects\CSharp\Advanced\4.Strings\5.UnicodeCharacters\bin\Debug\5.UnicodeCharacters.pdb
+E:\Projects\CSharp\Advanced\4.Strings\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.exe
+E:\Projects\CSharp\Advanced\4.Strings\5.UnicodeCharacters\obj\Debug\5.UnicodeCharacters.pdb

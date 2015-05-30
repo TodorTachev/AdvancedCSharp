@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\Pyramid\bin\Debug\Pyramid.exe
+E:\Projects\CSharp\Advanced\ExamPrep\Pyramid\bin\Debug\Pyramid.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\Pyramid\obj\Debug\Pyramid.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\Pyramid\obj\Debug\Pyramid.exe
+E:\Projects\CSharp\Advanced\ExamPrep\Pyramid\obj\Debug\Pyramid.pdb

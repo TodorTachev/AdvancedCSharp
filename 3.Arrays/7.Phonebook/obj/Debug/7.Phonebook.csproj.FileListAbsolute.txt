@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\7.Phonebook\bin\Debug\7.Phonebook.exe
+E:\Projects\CSharp\Advanced\3.Arrays\7.Phonebook\bin\Debug\7.Phonebook.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\7.Phonebook\obj\Debug\7.Phonebook.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\7.Phonebook\obj\Debug\7.Phonebook.exe
+E:\Projects\CSharp\Advanced\3.Arrays\7.Phonebook\obj\Debug\7.Phonebook.pdb

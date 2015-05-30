@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\2.ReplaceTag\obj\Debug\2.ReplaceTag.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\2.ReplaceTag\bin\Debug\2.ReplaceTag.exe
+E:\Projects\CSharp\Advanced\5.Regex\2.ReplaceTag\bin\Debug\2.ReplaceTag.pdb
+E:\Projects\CSharp\Advanced\5.Regex\2.ReplaceTag\obj\Debug\2.ReplaceTag.exe
+E:\Projects\CSharp\Advanced\5.Regex\2.ReplaceTag\obj\Debug\2.ReplaceTag.pdb

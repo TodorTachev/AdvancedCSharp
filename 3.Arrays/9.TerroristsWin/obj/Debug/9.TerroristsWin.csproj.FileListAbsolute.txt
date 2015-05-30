@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\9.TerroristsWin\bin\Debug\9.TerroristsWin.exe
+E:\Projects\CSharp\Advanced\3.Arrays\9.TerroristsWin\bin\Debug\9.TerroristsWin.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\9.TerroristsWin\obj\Debug\9.TerroristsWin.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\9.TerroristsWin\obj\Debug\9.TerroristsWin.exe
+E:\Projects\CSharp\Advanced\3.Arrays\9.TerroristsWin\obj\Debug\9.TerroristsWin.pdb

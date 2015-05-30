@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\CouplesFrequency\bin\Debug\CouplesFrequency.exe
+E:\Projects\CSharp\Advanced\ExamPrep\CouplesFrequency\bin\Debug\CouplesFrequency.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\CouplesFrequency\obj\Debug\CouplesFrequency.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\CouplesFrequency\obj\Debug\CouplesFrequency.exe
+E:\Projects\CSharp\Advanced\ExamPrep\CouplesFrequency\obj\Debug\CouplesFrequency.pdb

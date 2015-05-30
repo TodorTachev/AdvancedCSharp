@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\4.Strings\4.TextFilter\bin\Debug\4.TextFilter.exe
+E:\Projects\CSharp\Advanced\4.Strings\4.TextFilter\bin\Debug\4.TextFilter.pdb
+E:\Projects\CSharp\Advanced\4.Strings\4.TextFilter\obj\Debug\4.TextFilter.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\4.Strings\4.TextFilter\obj\Debug\4.TextFilter.exe
+E:\Projects\CSharp\Advanced\4.Strings\4.TextFilter\obj\Debug\4.TextFilter.pdb

@@ -1,0 +1,4 @@
+E:\Projects\CSharp\Advanced\1.DB\3.CategorizeNumbers\bin\Debug\3.CategorizeNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\3.CategorizeNumbers\bin\Debug\3.CategorizeNumbers.pdb
+E:\Projects\CSharp\Advanced\1.DB\3.CategorizeNumbers\obj\Debug\3.CategorizeNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\3.CategorizeNumbers\obj\Debug\3.CategorizeNumbers.pdb

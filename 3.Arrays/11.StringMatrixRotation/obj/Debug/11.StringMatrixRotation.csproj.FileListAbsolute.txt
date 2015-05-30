@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.exe
+E:\Projects\CSharp\Advanced\3.Arrays\11.StringMatrixRotation\bin\Debug\11.StringMatrixRotation.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.exe
+E:\Projects\CSharp\Advanced\3.Arrays\11.StringMatrixRotation\obj\Debug\11.StringMatrixRotation.pdb

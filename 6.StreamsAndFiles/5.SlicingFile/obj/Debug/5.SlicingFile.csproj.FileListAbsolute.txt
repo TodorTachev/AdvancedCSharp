@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\5.SlicingFile\bin\Debug\5.SlicingFile.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\5.SlicingFile\bin\Debug\5.SlicingFile.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\5.SlicingFile\obj\Debug\5.SlicingFile.pdb

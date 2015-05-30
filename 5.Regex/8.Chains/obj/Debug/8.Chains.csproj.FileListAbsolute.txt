@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\8.Chains\bin\Debug\8.Chains.exe
+E:\Projects\CSharp\Advanced\5.Regex\8.Chains\bin\Debug\8.Chains.pdb
+E:\Projects\CSharp\Advanced\5.Regex\8.Chains\obj\Debug\8.Chains.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\8.Chains\obj\Debug\8.Chains.exe
+E:\Projects\CSharp\Advanced\5.Regex\8.Chains\obj\Debug\8.Chains.pdb

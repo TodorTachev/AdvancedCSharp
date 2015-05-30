@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\8.NightLife\obj\Debug\8.NightLife.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\8.NightLife\bin\Debug\8.NightLife.exe
+E:\Projects\CSharp\Advanced\3.Arrays\8.NightLife\bin\Debug\8.NightLife.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\8.NightLife\obj\Debug\8.NightLife.exe
+E:\Projects\CSharp\Advanced\3.Arrays\8.NightLife\obj\Debug\8.NightLife.pdb

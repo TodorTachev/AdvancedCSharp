@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\12.ToTheStars\bin\Debug\12.ToTheStars.exe
+E:\Projects\CSharp\Advanced\3.Arrays\12.ToTheStars\bin\Debug\12.ToTheStars.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\12.ToTheStars\obj\Debug\12.ToTheStars.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\12.ToTheStars\obj\Debug\12.ToTheStars.exe
+E:\Projects\CSharp\Advanced\3.Arrays\12.ToTheStars\obj\Debug\12.ToTheStars.pdb

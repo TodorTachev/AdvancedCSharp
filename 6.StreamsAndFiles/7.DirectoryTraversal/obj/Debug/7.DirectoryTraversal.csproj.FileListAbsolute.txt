@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\7.DirectoryTraversal\bin\Debug\7.DirectoryTraversal.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\7.DirectoryTraversal\obj\Debug\7.DirectoryTraversal.pdb

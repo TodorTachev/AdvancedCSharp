@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\4.Strings\2.StringLength\obj\Debug\2.StringLength.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\4.Strings\2.StringLength\bin\Debug\2.StringLength.exe
+E:\Projects\CSharp\Advanced\4.Strings\2.StringLength\bin\Debug\2.StringLength.pdb
+E:\Projects\CSharp\Advanced\4.Strings\2.StringLength\obj\Debug\2.StringLength.exe
+E:\Projects\CSharp\Advanced\4.Strings\2.StringLength\obj\Debug\2.StringLength.pdb

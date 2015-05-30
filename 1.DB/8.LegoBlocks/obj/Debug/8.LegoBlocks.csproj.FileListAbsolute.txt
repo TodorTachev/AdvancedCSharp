@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\1.DB\8.LegoBlocks\bin\Debug\8.LegoBlocks.exe
+E:\Projects\CSharp\Advanced\1.DB\8.LegoBlocks\bin\Debug\8.LegoBlocks.pdb
+E:\Projects\CSharp\Advanced\1.DB\8.LegoBlocks\obj\Debug\8.LegoBlocks.exe
+E:\Projects\CSharp\Advanced\1.DB\8.LegoBlocks\obj\Debug\8.LegoBlocks.pdb
+E:\Projects\CSharp\Advanced\1.DB\8.LegoBlocks\obj\Debug\8.LegoBlocks.csprojResolveAssemblyReference.cache

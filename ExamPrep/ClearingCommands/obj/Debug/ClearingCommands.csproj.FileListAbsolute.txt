@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\ClearingCommands\bin\Debug\ClearingCommands.exe
+E:\Projects\CSharp\Advanced\ExamPrep\ClearingCommands\bin\Debug\ClearingCommands.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\ClearingCommands\obj\Debug\ClearingCommands.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\ClearingCommands\obj\Debug\ClearingCommands.exe
+E:\Projects\CSharp\Advanced\ExamPrep\ClearingCommands\obj\Debug\ClearingCommands.pdb

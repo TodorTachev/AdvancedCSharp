@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\UppercaseWords\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\UppercaseWords\bin\Debug\UppercaseWords.exe
+E:\Projects\CSharp\Advanced\ExamPrep\UppercaseWords\bin\Debug\UppercaseWords.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\UppercaseWords\obj\Debug\UppercaseWords.exe
+E:\Projects\CSharp\Advanced\ExamPrep\UppercaseWords\obj\Debug\UppercaseWords.pdb

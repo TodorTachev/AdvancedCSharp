@@ -1,0 +1,6 @@
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\bin\Debug\Problems.exe.config
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\obj\Debug\Problems.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\bin\Debug\Problems.exe
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\bin\Debug\Problems.pdb
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\obj\Debug\Problems.exe
+E:\Projects\CSharp\Advanced\7.FunctionalProgramming\Problems\obj\Debug\Problems.pdb

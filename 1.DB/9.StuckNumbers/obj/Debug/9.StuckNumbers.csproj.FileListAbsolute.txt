@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\1.DB\9.StuckNumbers\bin\Debug\9.StuckNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\9.StuckNumbers\bin\Debug\9.StuckNumbers.pdb
+E:\Projects\CSharp\Advanced\1.DB\9.StuckNumbers\obj\Debug\9.StuckNumbers.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\1.DB\9.StuckNumbers\obj\Debug\9.StuckNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\9.StuckNumbers\obj\Debug\9.StuckNumbers.pdb

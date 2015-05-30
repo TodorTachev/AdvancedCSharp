@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\1.DB\1.SortArray\bin\Debug\1.SortArray.exe
+E:\Projects\CSharp\Advanced\1.DB\1.SortArray\bin\Debug\1.SortArray.pdb
+E:\Projects\CSharp\Advanced\1.DB\1.SortArray\obj\Debug\1.SortArray.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\1.DB\1.SortArray\obj\Debug\1.SortArray.exe
+E:\Projects\CSharp\Advanced\1.DB\1.SortArray\obj\Debug\1.SortArray.pdb

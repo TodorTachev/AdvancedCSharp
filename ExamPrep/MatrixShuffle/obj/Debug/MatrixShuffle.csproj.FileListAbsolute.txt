@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\MatrixShuffle\bin\Debug\MatrixShuffle.exe
+E:\Projects\CSharp\Advanced\ExamPrep\MatrixShuffle\bin\Debug\MatrixShuffle.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\MatrixShuffle\obj\Debug\MatrixShuffle.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\MatrixShuffle\obj\Debug\MatrixShuffle.exe
+E:\Projects\CSharp\Advanced\ExamPrep\MatrixShuffle\obj\Debug\MatrixShuffle.pdb

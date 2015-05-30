@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\ExamPrep\LittleJohn\bin\Debug\LittleJohn.exe
+E:\Projects\CSharp\Advanced\ExamPrep\LittleJohn\bin\Debug\LittleJohn.pdb
+E:\Projects\CSharp\Advanced\ExamPrep\LittleJohn\obj\Debug\LittleJohn.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\ExamPrep\LittleJohn\obj\Debug\LittleJohn.exe
+E:\Projects\CSharp\Advanced\ExamPrep\LittleJohn\obj\Debug\LittleJohn.pdb

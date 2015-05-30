@@ -1,0 +1,1 @@
+E:\Projects\CSharp\Advanced\3.Arrays\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config

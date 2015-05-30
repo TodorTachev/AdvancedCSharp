@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\2.Methods\6.NumberCalculations\bin\Debug\6.NumberCalculations.exe
+E:\Projects\CSharp\Advanced\2.Methods\6.NumberCalculations\bin\Debug\6.NumberCalculations.pdb
+E:\Projects\CSharp\Advanced\2.Methods\6.NumberCalculations\obj\Debug\6.NumberCalculations.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\2.Methods\6.NumberCalculations\obj\Debug\6.NumberCalculations.exe
+E:\Projects\CSharp\Advanced\2.Methods\6.NumberCalculations\obj\Debug\6.NumberCalculations.pdb

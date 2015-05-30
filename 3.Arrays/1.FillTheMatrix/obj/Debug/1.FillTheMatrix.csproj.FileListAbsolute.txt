@@ -1,0 +1,7 @@
+E:\Projects\CSharp\Advanced\4.Arrays\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe
+E:\Projects\CSharp\Advanced\4.Arrays\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.pdb
+E:\Projects\CSharp\Advanced\4.Arrays\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\4.Arrays\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\Projects\CSharp\Advanced\4.Arrays\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\Projects\CSharp\Advanced\3.Arrays\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb

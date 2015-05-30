@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\3.WordCount\bin\Debug\3.WordCount.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\3.WordCount\bin\Debug\3.WordCount.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\3.WordCount\obj\Debug\3.WordCount.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\3.WordCount\obj\Debug\3.WordCount.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\3.WordCount\obj\Debug\3.WordCount.pdb

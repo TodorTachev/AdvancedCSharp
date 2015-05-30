@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\3.ExtractEmails\bin\Debug\3.ExtractEmails.exe
+E:\Projects\CSharp\Advanced\5.Regex\3.ExtractEmails\bin\Debug\3.ExtractEmails.pdb
+E:\Projects\CSharp\Advanced\5.Regex\3.ExtractEmails\obj\Debug\3.ExtractEmails.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\3.ExtractEmails\obj\Debug\3.ExtractEmails.exe
+E:\Projects\CSharp\Advanced\5.Regex\3.ExtractEmails\obj\Debug\3.ExtractEmails.pdb

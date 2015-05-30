@@ -1,0 +1,7 @@
+E:\Projects\CSharp\Advanced\4.Arrays\2.MaximalSum\bin\Debug\2.MaximalSum.exe
+E:\Projects\CSharp\Advanced\4.Arrays\2.MaximalSum\bin\Debug\2.MaximalSum.pdb
+E:\Projects\CSharp\Advanced\4.Arrays\2.MaximalSum\obj\Debug\2.MaximalSum.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\4.Arrays\2.MaximalSum\obj\Debug\2.MaximalSum.exe
+E:\Projects\CSharp\Advanced\4.Arrays\2.MaximalSum\obj\Debug\2.MaximalSum.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\2.MaximalSum\obj\Debug\2.MaximalSum.exe
+E:\Projects\CSharp\Advanced\3.Arrays\2.MaximalSum\obj\Debug\2.MaximalSum.pdb

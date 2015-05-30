@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\4.CopyBinaryFile\bin\Debug\4.CopyBinaryFile.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\4.CopyBinaryFile\obj\Debug\4.CopyBinaryFile.pdb

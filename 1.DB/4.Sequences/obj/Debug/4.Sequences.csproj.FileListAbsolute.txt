@@ -1,0 +1,4 @@
+E:\Projects\CSharp\Advanced\1.DB\4.Sequences\bin\Debug\4.Sequences.exe
+E:\Projects\CSharp\Advanced\1.DB\4.Sequences\bin\Debug\4.Sequences.pdb
+E:\Projects\CSharp\Advanced\1.DB\4.Sequences\obj\Debug\4.Sequences.exe
+E:\Projects\CSharp\Advanced\1.DB\4.Sequences\obj\Debug\4.Sequences.pdb

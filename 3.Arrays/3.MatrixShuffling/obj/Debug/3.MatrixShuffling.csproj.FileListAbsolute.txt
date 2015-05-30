@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\3.MatrixShuffling\bin\Debug\3.MatrixShuffling.exe
+E:\Projects\CSharp\Advanced\3.Arrays\3.MatrixShuffling\bin\Debug\3.MatrixShuffling.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.exe
+E:\Projects\CSharp\Advanced\3.Arrays\3.MatrixShuffling\obj\Debug\3.MatrixShuffling.pdb

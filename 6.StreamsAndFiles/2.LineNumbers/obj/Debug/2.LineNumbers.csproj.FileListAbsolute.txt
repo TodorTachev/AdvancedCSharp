@@ -1,0 +1,4 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\2.LineNumbers\bin\Debug\2.LineNumbers.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\2.LineNumbers\bin\Debug\2.LineNumbers.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\2.LineNumbers\obj\Debug\2.LineNumbers.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\2.LineNumbers\obj\Debug\2.LineNumbers.pdb

@@ -1,0 +1,1 @@
+E:\Projects\CSharp\Advanced\2.Methods\7.GenericArraySort\bin\Debug\7.GenericArraySort.exe.config

@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\1.DB\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\10.PythagoreanNumbers\bin\Debug\10.PythagoreanNumbers.pdb
+E:\Projects\CSharp\Advanced\1.DB\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\1.DB\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.exe
+E:\Projects\CSharp\Advanced\1.DB\10.PythagoreanNumbers\obj\Debug\10.PythagoreanNumbers.pdb

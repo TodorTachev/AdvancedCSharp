@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\6.ZippingSlicedFiles\bin\Debug\6.ZippingSlicedFiles.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\6.ZippingSlicedFiles\bin\Debug\6.ZippingSlicedFiles.pdb
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.exe
+E:\Projects\CSharp\Advanced\6.StreamsAndFiles\6.ZippingSlicedFiles\obj\Debug\6.ZippingSlicedFiles.pdb

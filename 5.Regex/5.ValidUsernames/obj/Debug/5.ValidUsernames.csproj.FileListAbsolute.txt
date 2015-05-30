@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\5.ValidUsernames\bin\Debug\5.ValidUsernames.exe
+E:\Projects\CSharp\Advanced\5.Regex\5.ValidUsernames\bin\Debug\5.ValidUsernames.pdb
+E:\Projects\CSharp\Advanced\5.Regex\5.ValidUsernames\obj\Debug\5.ValidUsernames.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\5.ValidUsernames\obj\Debug\5.ValidUsernames.exe
+E:\Projects\CSharp\Advanced\5.Regex\5.ValidUsernames\obj\Debug\5.ValidUsernames.pdb

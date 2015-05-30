@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\6.ExtractHyperlinks\bin\Debug\6.ExtractHyperlinks.exe
+E:\Projects\CSharp\Advanced\5.Regex\6.ExtractHyperlinks\bin\Debug\6.ExtractHyperlinks.pdb
+E:\Projects\CSharp\Advanced\5.Regex\6.ExtractHyperlinks\obj\Debug\6.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\6.ExtractHyperlinks\obj\Debug\6.ExtractHyperlinks.exe
+E:\Projects\CSharp\Advanced\5.Regex\6.ExtractHyperlinks\obj\Debug\6.ExtractHyperlinks.pdb

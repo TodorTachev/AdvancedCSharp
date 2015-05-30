@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\6.CountSymbols\bin\Debug\6.CountSymbols.exe
+E:\Projects\CSharp\Advanced\3.Arrays\6.CountSymbols\bin\Debug\6.CountSymbols.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\6.CountSymbols\obj\Debug\6.CountSymbols.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\6.CountSymbols\obj\Debug\6.CountSymbols.exe
+E:\Projects\CSharp\Advanced\3.Arrays\6.CountSymbols\obj\Debug\6.CountSymbols.pdb

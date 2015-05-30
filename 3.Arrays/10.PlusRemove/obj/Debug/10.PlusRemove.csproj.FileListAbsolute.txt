@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\3.Arrays\10.PlusRemove\obj\Debug\10.PlusRemove.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\3.Arrays\10.PlusRemove\bin\Debug\10.PlusRemove.exe
+E:\Projects\CSharp\Advanced\3.Arrays\10.PlusRemove\bin\Debug\10.PlusRemove.pdb
+E:\Projects\CSharp\Advanced\3.Arrays\10.PlusRemove\obj\Debug\10.PlusRemove.exe
+E:\Projects\CSharp\Advanced\3.Arrays\10.PlusRemove\obj\Debug\10.PlusRemove.pdb

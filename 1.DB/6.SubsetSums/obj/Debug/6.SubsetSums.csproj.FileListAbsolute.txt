@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\1.DB\6.SubsetSums\bin\Debug\6.SubsetSums.exe
+E:\Projects\CSharp\Advanced\1.DB\6.SubsetSums\bin\Debug\6.SubsetSums.pdb
+E:\Projects\CSharp\Advanced\1.DB\6.SubsetSums\obj\Debug\6.SubsetSums.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\1.DB\6.SubsetSums\obj\Debug\6.SubsetSums.exe
+E:\Projects\CSharp\Advanced\1.DB\6.SubsetSums\obj\Debug\6.SubsetSums.pdb

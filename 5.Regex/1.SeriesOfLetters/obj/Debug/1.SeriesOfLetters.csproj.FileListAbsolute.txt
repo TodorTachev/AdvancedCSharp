@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\5.Regex\1.SeriesOfLetters\bin\Debug\1.SeriesOfLetters.exe
+E:\Projects\CSharp\Advanced\5.Regex\1.SeriesOfLetters\bin\Debug\1.SeriesOfLetters.pdb
+E:\Projects\CSharp\Advanced\5.Regex\1.SeriesOfLetters\obj\Debug\1.SeriesOfLetters.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\5.Regex\1.SeriesOfLetters\obj\Debug\1.SeriesOfLetters.exe
+E:\Projects\CSharp\Advanced\5.Regex\1.SeriesOfLetters\obj\Debug\1.SeriesOfLetters.pdb
