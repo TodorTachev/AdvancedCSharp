@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\TheNumbers\bin\Debug\TheNumbers.exe
+E:\Projects\CSharp\Advanced\Preparation\TheNumbers\bin\Debug\TheNumbers.pdb
+E:\Projects\CSharp\Advanced\Preparation\TheNumbers\obj\Debug\TheNumbers.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\TheNumbers\obj\Debug\TheNumbers.exe
+E:\Projects\CSharp\Advanced\Preparation\TheNumbers\obj\Debug\TheNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\VladkosNotebook\bin\Debug\VladkosNotebook.exe
+E:\Projects\CSharp\Advanced\Preparation\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
+E:\Projects\CSharp\Advanced\Preparation\VladkosNotebook\obj\Debug\VladkosNotebook.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\VladkosNotebook\obj\Debug\VladkosNotebook.exe
+E:\Projects\CSharp\Advanced\Preparation\VladkosNotebook\obj\Debug\VladkosNotebook.pdb

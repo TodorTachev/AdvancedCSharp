@@ -1,0 +1,4 @@
+E:\Projects\CSharp\Advanced\Preparation\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
+E:\Projects\CSharp\Advanced\Preparation\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
+E:\Projects\CSharp\Advanced\Preparation\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
+E:\Projects\CSharp\Advanced\Preparation\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb

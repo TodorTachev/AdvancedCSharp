@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\UserLogs\bin\Debug\UserLogs.exe
+E:\Projects\CSharp\Advanced\Preparation\UserLogs\bin\Debug\UserLogs.pdb
+E:\Projects\CSharp\Advanced\Preparation\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\UserLogs\obj\Debug\UserLogs.exe
+E:\Projects\CSharp\Advanced\Preparation\UserLogs\obj\Debug\UserLogs.pdb

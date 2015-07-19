@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\ITVillage\bin\Debug\ITVillage.exe
+E:\Projects\CSharp\Advanced\Preparation\ITVillage\bin\Debug\ITVillage.pdb
+E:\Projects\CSharp\Advanced\Preparation\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\ITVillage\obj\Debug\ITVillage.exe
+E:\Projects\CSharp\Advanced\Preparation\ITVillage\obj\Debug\ITVillage.pdb

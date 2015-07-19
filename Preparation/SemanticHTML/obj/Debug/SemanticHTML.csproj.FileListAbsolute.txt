@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\SemanticHTML\bin\Debug\SemanticHTML.exe
+E:\Projects\CSharp\Advanced\Preparation\SemanticHTML\bin\Debug\SemanticHTML.pdb
+E:\Projects\CSharp\Advanced\Preparation\SemanticHTML\obj\Debug\SemanticHTML.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\SemanticHTML\obj\Debug\SemanticHTML.exe
+E:\Projects\CSharp\Advanced\Preparation\SemanticHTML\obj\Debug\SemanticHTML.pdb

@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\ActivityTracker\bin\Debug\ActivityTracker.exe
+E:\Projects\CSharp\Advanced\Preparation\ActivityTracker\bin\Debug\ActivityTracker.pdb
+E:\Projects\CSharp\Advanced\Preparation\ActivityTracker\obj\Debug\ActivityTracker.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\ActivityTracker\obj\Debug\ActivityTracker.exe
+E:\Projects\CSharp\Advanced\Preparation\ActivityTracker\obj\Debug\ActivityTracker.pdb

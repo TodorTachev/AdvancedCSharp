@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.exe
+E:\Projects\CSharp\Advanced\Preparation\ExtractHyperlinks\bin\Debug\ExtractHyperlinks.pdb
+E:\Projects\CSharp\Advanced\Preparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.exe
+E:\Projects\CSharp\Advanced\Preparation\ExtractHyperlinks\obj\Debug\ExtractHyperlinks.pdb

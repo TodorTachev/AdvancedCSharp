@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\X-Removal\bin\Debug\X-Removal.exe
+E:\Projects\CSharp\Advanced\Preparation\X-Removal\bin\Debug\X-Removal.pdb
+E:\Projects\CSharp\Advanced\Preparation\X-Removal\obj\Debug\X-Removal.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\X-Removal\obj\Debug\X-Removal.exe
+E:\Projects\CSharp\Advanced\Preparation\X-Removal\obj\Debug\X-Removal.pdb

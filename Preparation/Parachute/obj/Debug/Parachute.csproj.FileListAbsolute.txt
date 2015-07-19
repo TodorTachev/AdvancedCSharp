@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\Parachute\bin\Debug\Parachute.exe
+E:\Projects\CSharp\Advanced\Preparation\Parachute\bin\Debug\Parachute.pdb
+E:\Projects\CSharp\Advanced\Preparation\Parachute\obj\Debug\Parachute.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\Parachute\obj\Debug\Parachute.exe
+E:\Projects\CSharp\Advanced\Preparation\Parachute\obj\Debug\Parachute.pdb

@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\PlusRemove\bin\Debug\PlusRemove.exe
+E:\Projects\CSharp\Advanced\Preparation\PlusRemove\bin\Debug\PlusRemove.pdb
+E:\Projects\CSharp\Advanced\Preparation\PlusRemove\obj\Debug\PlusRemove.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\PlusRemove\obj\Debug\PlusRemove.exe
+E:\Projects\CSharp\Advanced\Preparation\PlusRemove\obj\Debug\PlusRemove.pdb

@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\QueryMess\bin\Debug\QueryMess.exe
+E:\Projects\CSharp\Advanced\Preparation\QueryMess\bin\Debug\QueryMess.pdb
+E:\Projects\CSharp\Advanced\Preparation\QueryMess\obj\Debug\QueryMess.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\QueryMess\obj\Debug\QueryMess.exe
+E:\Projects\CSharp\Advanced\Preparation\QueryMess\obj\Debug\QueryMess.pdb

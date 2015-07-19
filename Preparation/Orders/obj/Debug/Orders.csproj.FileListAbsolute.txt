@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\Orders\bin\Debug\Orders.exe
+E:\Projects\CSharp\Advanced\Preparation\Orders\bin\Debug\Orders.pdb
+E:\Projects\CSharp\Advanced\Preparation\Orders\obj\Debug\Orders.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\Orders\obj\Debug\Orders.exe
+E:\Projects\CSharp\Advanced\Preparation\Orders\obj\Debug\Orders.pdb

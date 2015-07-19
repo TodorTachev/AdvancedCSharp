@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\SumOfAllValues\bin\Debug\SumOfAllValues.exe
+E:\Projects\CSharp\Advanced\Preparation\SumOfAllValues\bin\Debug\SumOfAllValues.pdb
+E:\Projects\CSharp\Advanced\Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.exe
+E:\Projects\CSharp\Advanced\Preparation\SumOfAllValues\obj\Debug\SumOfAllValues.pdb

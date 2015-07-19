@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\BiggestTableRow\bin\Debug\BiggestTableRow.exe
+E:\Projects\CSharp\Advanced\Preparation\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
+E:\Projects\CSharp\Advanced\Preparation\BiggestTableRow\obj\Debug\BiggestTableRow.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\BiggestTableRow\obj\Debug\BiggestTableRow.exe
+E:\Projects\CSharp\Advanced\Preparation\BiggestTableRow\obj\Debug\BiggestTableRow.pdb

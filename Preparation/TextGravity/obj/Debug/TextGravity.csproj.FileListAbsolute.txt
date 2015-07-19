@@ -1,0 +1,5 @@
+E:\Projects\CSharp\Advanced\Preparation\TextGravity\bin\Debug\TextGravity.exe
+E:\Projects\CSharp\Advanced\Preparation\TextGravity\bin\Debug\TextGravity.pdb
+E:\Projects\CSharp\Advanced\Preparation\TextGravity\obj\Debug\TextGravity.csprojResolveAssemblyReference.cache
+E:\Projects\CSharp\Advanced\Preparation\TextGravity\obj\Debug\TextGravity.exe
+E:\Projects\CSharp\Advanced\Preparation\TextGravity\obj\Debug\TextGravity.pdb
